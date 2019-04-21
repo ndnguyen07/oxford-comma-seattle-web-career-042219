@@ -1,5 +1,5 @@
 def oxford_comma(array)
-  if array == 2
-    array.length
+  if array.length == 2
+    
   array.join
 end
